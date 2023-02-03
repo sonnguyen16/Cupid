@@ -1,0 +1,46 @@
+Màu background sáng 1 = 255, 255, 255
+Màu background sáng 2 = 240, 242, 245 (đậm hơn)
+Màu background tối 1 = 36, 37, 38
+Màu background tối 2 = 24, 25, 26 (đậm hơn)
+Màu xanh chủ đạo của giao diện 1 = 157, 217, 243
+Màu xanh chủ đạo của giao diện 2 = 119, 195, 236 (đậm hơn)
+Màu chữ sáng = 0, 0, 0
+Màu chữ tối = 255, 255, 255
+Màu chữ mờ = 169, 169, 169 (Nhạt, hợp cả sáng và tối)
+Màu chữ mờ sáng = 5,5,5
+Màu chữ mờ tối = 169, 169, 169
+Màu đỏ chữ thông báo = 250, 80, 100
+Mày xanh chữ thông báo = 100, 250, 80
+
+        public Color color_BG_Blue_01 = Color.FromArgb(150, 200, 250); // nhạt
+        public Color color_BG_Blue_02 = Color.FromArgb(130, 180, 230); // đậm
+
+        public Color color_BG_Red_01 = Color.FromArgb(250, 80, 100); // nhạt
+        public Color color_BG_Red_02 = Color.FromArgb(200, 80, 100); // đậm
+
+        public Color color_BG_Green_01 = Color.FromArgb(100, 200, 80); // nhạt
+        public Color color_BG_Green_02 = Color.FromArgb(100, 150, 80); // đậm
+
+        public Color color_BG_Orange_01 = Color.FromArgb(250, 100, 80); // nhạt
+        public Color color_BG_Orange_02 = Color.FromArgb(200, 100, 80); // đậm
+
+        public Color color_BG_Yellow_01 = Color.FromArgb(200, 200, 0); // nhạt
+        public Color color_BG_Yellow_02 = Color.FromArgb(150, 150, 0); // đậm
+
+        public Color color_BG_BlueDark_01 = Color.FromArgb(80, 150, 250); // nhạt
+        public Color color_BG_BlueDark_02 = Color.FromArgb(80, 100, 250); // đậm
+
+        public Color color_BG_Violet_01 = Color.FromArgb(200, 80, 250); // nhạt
+        public Color color_BG_Violet_02 = Color.FromArgb(150, 80, 250); // đậm
+
+        public Color color_BG_Pink_01 = Color.FromArgb(250, 150, 200); // nhạt
+        public Color color_BG_Pink_02 = Color.FromArgb(250, 100, 150); // đậm
+
+        public Color color_BG_Brown_01 = Color.FromArgb(100, 50, 50); // nhạt
+        public Color color_BG_Brown_02 = Color.FromArgb(100, 0, 0); // đậm
+
+        public Color color_BG_Grey_01 = Color.FromArgb(150, 150, 150); // nhạt
+        public Color color_BG_Grey_02 = Color.FromArgb(70, 70, 70); // đậm
+
+nhấn phản hồi vào tin của mình tự gửi mình
+ngày hôm nay nhưng vẫn ra nhưng ngày trước lshd
